@@ -1,0 +1,38 @@
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.exe.config
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\DialogBox.baml
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\MainWindow.baml
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\DialogBox.g.cs
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\MainWindow.g.cs
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\App.g.cs
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer_MarkupCompile.cache
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.g.resources
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.Properties.Resources.resources
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.csproj.GenerateResource.Cache
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.exe
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.pdb
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.exe
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.pdb
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.exe.manifest
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.application
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.exe.manifest
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.application
+C:\Users\ananasek\documents\visual studio 2013\Projects\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.csprojResolveAssemblyReference.cache
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.exe.config
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.exe
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.pdb
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.exe.manifest
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.application
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.exe
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\bin\Release\readyforsomesoccer.pdb
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.csprojResolveAssemblyReference.cache
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\DialogBox.baml
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\MainWindow.baml
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\DialogBox.g.cs
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\MainWindow.g.cs
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\App.g.cs
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer_MarkupCompile.cache
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.g.resources
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.Properties.Resources.resources
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.csproj.GenerateResource.Cache
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.exe.manifest
+C:\Users\ananasek\Desktop\soccer\readyforsomesoccer\obj\Release\readyforsomesoccer.application

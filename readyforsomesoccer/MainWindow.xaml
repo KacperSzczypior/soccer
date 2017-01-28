@@ -1,0 +1,12 @@
+﻿<Window x:Class="readyforsomesoccer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Soccer" Height="975" Width="650"
+        KeyDown="Window_KeyDown">
+    <Grid Name="someGrid">
+        <Button Content="Reset" />
+    <Canvas Name="Board" Width="650" Height="975">
+    </Canvas>
+        
+        </Grid>
+</Window>
